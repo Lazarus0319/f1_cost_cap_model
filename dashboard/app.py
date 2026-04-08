@@ -22,7 +22,6 @@ from src.intervention_engine import calculate_intervention, run_all_intervention
 # ── Page config ───────────────────────────────────────────────────
 st.set_page_config(
     page_title='F1 Cost Cap Compliance Model',
-    page_icon='🏎️',
     layout='wide',
     initial_sidebar_state='expanded'
 )
@@ -249,10 +248,10 @@ st.divider()
 
 # ── Tabs ──────────────────────────────────────────────────────────
 tab1, tab2, tab3, tab4 = st.tabs([
-    '📊  Compliance Report',
-    '🎲  Monte Carlo Simulator',
-    '🤖  ML Breach Predictor',
-    '✂️  Intervention Calculator',
+    'Compliance Report',
+    'Monte Carlo Simulator',
+    'ML Breach Predictor',
+    'Intervention Calculator',
 ])
 
 # ════════════════════════════════════════════════════════════════
