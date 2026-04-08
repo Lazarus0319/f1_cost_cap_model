@@ -125,7 +125,7 @@ and tier mobility metrics.
 ## 👤 Author
 
 **Lakshya Agarwal**  
-BSc Economics & Finance, Year 1  
+BSc (Hons) Investment and Financial Risk Management, Year 1  
 Interested in financial regulation, sports economics, and data analysis.
 
 *Built independently as part of preparation for a placement year application 
